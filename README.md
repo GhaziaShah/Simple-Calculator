@@ -18,6 +18,6 @@ git push origin <branch_name>
 3. Run .\<filename>
 4. Commit and push the changes in other branch
 5. Create Pull request
-6. Merge temporary branch into merge
+6. Merge temporary branch into main
 7. delete temporary branch
 8. You're good to go! 
