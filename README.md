@@ -16,3 +16,8 @@ git push origin <branch_name>
 2. Navigate to folder
    cd Simple-calculator
 3. Run .\<filename>
+4. Commit and push the changes in other branch
+5. Create Pull request
+6. Merge temporary branch into merge
+7. delete temporary branch
+8. You're good to go! 
